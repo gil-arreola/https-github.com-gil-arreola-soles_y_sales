@@ -1,0 +1,42 @@
+body{
+  header{
+    background-color: #fcf8e6cd;
+    border-radius: 10px;
+      nav.navmenu2{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 150px;
+      margin-top: 45px;
+      // margin-right: 40%;
+        img.logo{
+        border-radius: 50%;
+        }
+      }
+  }
+  section.secmenu2{
+    background-color: $transparency;
+    display: flex;
+    border-radius: $bordes;
+    margin-top: $margensuperior;
+      img.livier{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: $bordes;
+      }
+  }
+}
+footer.menu2{
+  margin-top: $margensuperior;
+  font-size: $tamletra;
+  background-color: $transparency;
+  font-weight: bolder;
+  text-align: center;
+  border-radius: $bordes;
+    div.menu2{
+      display: flex;
+      justify-content: space-around;
+      font-size: 15px;
+    }
+}
