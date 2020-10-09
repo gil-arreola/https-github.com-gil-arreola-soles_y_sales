@@ -1,5 +1,5 @@
 body{
-  section.secmenu2{
+  section.secmenu3{
     background-color: $transparency;
     display: flex;
     border-radius: $bordes;
@@ -12,14 +12,14 @@ body{
       }
   }
 }
-footer.menu2{
+footer.menu3{
   margin-top: $margensuperior;
   font-size: $tamletra;
   background-color: $transparency;
   font-weight: bolder;
   text-align: center;
   border-radius: $bordes;
-    div.menu2{
+    div.menu3{
       display: flex;
       justify-content: space-around;
       font-size: 15px;

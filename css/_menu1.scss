@@ -1,19 +1,4 @@
 body{
-  header{
-    background-color: #fcf8e6cd;
-    border-radius: 10px;
-      nav.navmenu1{
-      display: flex;
-      justify-content: space-around;
-      align-items: center;
-      height: 150px;
-      margin-top: 45px;
-      // margin-right: 40%;
-        img.logo{
-        border-radius: 50%;
-        }
-      }
-  }
   section.secmenu1{
     background-color: $transparency;
     display: flex;
